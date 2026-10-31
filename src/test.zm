@@ -1,0 +1,10 @@
+let y=2+1
+let x=1;
+if (1){
+    x=x+1;
+}elif(1){
+    x=x+2;
+}else{
+    x=x+3;
+}
+exit(x);
