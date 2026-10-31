@@ -1,0 +1,7 @@
+build/
+*.o
+*.asm
+CmakeCache.txt
+CMkaeFiles/
+Makefile
+.vscode/
